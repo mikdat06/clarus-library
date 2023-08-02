@@ -1,5 +1,6 @@
 {
-  "name": "clarus-library-2",
+  "homepage": "http://mikdat06.github.io/clarus-library",
+  "name": "clarus-library",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
