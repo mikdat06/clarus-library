@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/clarus-library/static/js/main.c2b97c6d.js",
+    "static/media/books.jpg": "/clarus-library/static/media/books.b6b4db9841e449dd646e.jpg",
+    "static/media/const.png": "/clarus-library/static/media/const.f53287fcb61091819d8b.png",
+    "static/media/book.jpg": "/clarus-library/static/media/book.bb868d921d9ac1db3fb6.jpg",
+    "index.html": "/clarus-library/index.html",
+    "main.c2b97c6d.js.map": "/clarus-library/static/js/main.c2b97c6d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2b97c6d.js"
+  ]
+}
